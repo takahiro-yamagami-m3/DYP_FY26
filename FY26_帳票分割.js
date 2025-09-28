@@ -7,7 +7,7 @@ const DEPT_CELLS = {
   sheetName: "申請サマリ",
   cells: ["B3", "B4", "B5"]
 };
-
+ 
 /**
  * テンプレートをコピーし、各部署と共有
  */
