@@ -1,5 +1,5 @@
 /**
- * 部署マスタに基づき、BigQueryからデータを取得し、
+ * 部署マスタに基づき、BigQueryからデータを取得して、
  * 各部署のデータを指定されたスプレッドシートに6ヶ月ごとに書き出すスクリプト。
  */ 
 function exportDataByDepartment() {
