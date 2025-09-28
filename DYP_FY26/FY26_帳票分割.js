@@ -9,7 +9,7 @@ const DEPT_CELLS = {
 };
 
 /**
- * テンプレートをコピーし、各部署と共有
+ * テンプレートをコピーし、各部署と共有だ
  */
 function createAndShareSpreadsheet() {
   Logger.log('スプレッドシートの作成と共有を開始します。');
